@@ -1,4 +1,10 @@
 {
   "name": "md-links",
-  "version": "0.1.0"
+  "version": "0.1.0",
+  "author": "AdrianaHY",
+  "dependencies": {
+    "minimist": "^1.2.5",
+    "remark-parse": "^8.0.0",
+    "unified": "^9.0.0"
+  }
 }
